@@ -130,7 +130,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     },
     {
         _id: "2",
@@ -139,7 +139,7 @@ export const food_list = [
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     }, {
         _id: "3",
         name: "Clover Salad",
@@ -147,7 +147,7 @@ export const food_list = [
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     }, {
         _id: "4",
         name: "Chicken Salad",
@@ -155,7 +155,7 @@ export const food_list = [
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     }, {
         _id: "5",
         name: "Lasagna Rolls",
@@ -163,7 +163,7 @@ export const food_list = [
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     }, {
         _id: "6",
         name: "Peri Peri Rolls",
@@ -171,7 +171,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls",
-        rating: Math.floor(Math.random() * 5) + 1
+        
     }, {
         _id: "7",
         name: "Chicken Rolls",
@@ -179,7 +179,7 @@ export const food_list = [
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "8",
         name: "Veg Rolls",
@@ -187,7 +187,7 @@ export const food_list = [
         price: 15,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "9",
         name: "Ripple Ice Cream",
@@ -195,7 +195,7 @@ export const food_list = [
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Deserts",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "10",
         name: "Fruit Ice Cream",
@@ -203,7 +203,7 @@ export const food_list = [
         price: 22,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Deserts",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "11",
         name: "Jar Ice Cream",
@@ -211,7 +211,7 @@ export const food_list = [
         price: 10,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Deserts",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "12",
         name: "Vanilla Ice Cream",
@@ -219,7 +219,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Deserts",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     },
     {
         _id: "13",
@@ -228,7 +228,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     },
     {
         _id: "14",
@@ -237,7 +237,7 @@ export const food_list = [
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "15",
         name: "Grilled Sandwich",
@@ -245,7 +245,7 @@ export const food_list = [
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "16",
         name: "Bread Sandwich",
@@ -253,7 +253,7 @@ export const food_list = [
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, 
     {
         _id: "17",
@@ -262,7 +262,7 @@ export const food_list = [
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cake",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "18",
         name: "Choco Cake",
@@ -270,7 +270,7 @@ export const food_list = [
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cake",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "19",
         name: "Blackforest Cake",
@@ -278,7 +278,7 @@ export const food_list = [
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cake",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "20",
         name: "Oreo Cake",
@@ -286,7 +286,7 @@ export const food_list = [
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Cake",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "21",
         name: "Garlic Mushroom",
@@ -294,7 +294,7 @@ export const food_list = [
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pure Veg",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "22",
         name: "Fried Cauliflower",
@@ -302,7 +302,7 @@ export const food_list = [
         price: 22,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pure Veg",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "23",
         name: "Mix Veg Pulao",
@@ -310,7 +310,7 @@ export const food_list = [
         price: 10,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pure Veg",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "24",
         name: "Rice Zucchini",
@@ -318,7 +318,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pure Veg",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "25",
         name: "Cheese Pasta",
@@ -326,7 +326,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "26",
         name: "Tomato Pasta",
@@ -334,7 +334,7 @@ export const food_list = [
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "27",
         name: "Creamy Pasta",
@@ -342,7 +342,7 @@ export const food_list = [
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "28",
         name: "Chicken Pasta",
@@ -350,7 +350,7 @@ export const food_list = [
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "29",
         name: "Butter Noodles",
@@ -358,7 +358,7 @@ export const food_list = [
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "30",
         name: "Veg Noodles",
@@ -366,7 +366,7 @@ export const food_list = [
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "31",
         name: "Somen Noodles",
@@ -374,7 +374,7 @@ export const food_list = [
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }, {
         _id: "32",
         name: "Cooked Noodles",
@@ -382,6 +382,6 @@ export const food_list = [
         price: 15,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles",
-        rating: Math.floor(Math.random() * 5) + 1
+        //rating: Math.floor(Math.random() * 5) + 1
     }
 ]
