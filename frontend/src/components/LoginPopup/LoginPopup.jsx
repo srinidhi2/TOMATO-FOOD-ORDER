@@ -26,7 +26,13 @@ const LoginPopup = ({ setShowLogin }) => {
     },[data])
 
     const onLogin = async (e) => {
-        e.preventDefault()
+        e.preventDefault();
+        // Validate email domain
+        if (!data.email.endsWith("@gmail.com")) {
+            alert("Please use an @gmail.com email address.");
+            return;
+        }
+        
         let new_url = url;
         if (currState === "Login") {
             new_url += "/api/user/login";

@@ -62,3 +62,20 @@
 .payment .payment-option:hover{
     background-color:  #ffe7de;
 }
+.place-order-left select {
+    margin-bottom: 15px;
+    width: 100%; /* Matches input width */
+    padding: 10px; /* Matches input padding */
+    border: 1px solid #C5C5C5; /* Matches input border */
+    border-radius: 4px; /* Matches input border-radius */
+    outline-color: tomato; /* Matches input outline color on focus */
+    background-color: white; /* Ensures a clean background */
+    appearance: none; /* Removes default dropdown styling */
+    font-size: 16px; /* Matches input font size */
+    color: #333; /* Matches input text color */
+    cursor: pointer; /* Improves UX */
+    box-sizing: border-box; /* Ensures consistent sizing */
+}
+.place-order-left .multi-field select {
+    width: calc(50% - 5px); /* Ensures dropdown aligns with multi-field inputs */
+}
